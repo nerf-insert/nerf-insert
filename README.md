@@ -2,6 +2,9 @@
 
  # NeRF-Insert: Local 3D editing with multimodal control signals.
  
+[Website](https://nerf-insert.github.io/)
+
+[Arxiv](https://arxiv.org/abs/2404.19204)
 
 ![results](repoimg/results.jpeg)
 
