@@ -2,6 +2,9 @@
 
  # NeRF-Insert: Local 3D editing with multimodal control signals.
  
+
+![results](repoimg/results.jpeg)
+
 # Installation
 
 ## 1. Install Nerfstudio 0.3.2 dependencies
